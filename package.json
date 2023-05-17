@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AndrewKustov1998.github.io/mimino",
+  "homepage": "https://n-ruzhik.github.io/MIMIHO-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /mimino/"
+    "build": "parcel build src/*.html --public-url /MIMIHO-project/"
   },
   "repository": {
     "type": "git",
